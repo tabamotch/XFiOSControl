@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "XFiOSControl", "XFiOSControl\XFiOSControl.shproj", "{1DDAB9B6-4572-4317-8F81-970643EDA2AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFiOSControl.iOS", "iOS\XFiOSControl.iOS.csproj", "{003BBC15-0E63-4D8A-B4AE-D1BC1F209448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003BBC15-0E63-4D8A-B4AE-D1BC1F209448}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{003BBC15-0E63-4D8A-B4AE-D1BC1F209448}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{003BBC15-0E63-4D8A-B4AE-D1BC1F209448}.Release|iPhone.ActiveCfg = Release|iPhone
+		{003BBC15-0E63-4D8A-B4AE-D1BC1F209448}.Release|iPhone.Build.0 = Release|iPhone
+		{003BBC15-0E63-4D8A-B4AE-D1BC1F209448}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{003BBC15-0E63-4D8A-B4AE-D1BC1F209448}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{003BBC15-0E63-4D8A-B4AE-D1BC1F209448}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{003BBC15-0E63-4D8A-B4AE-D1BC1F209448}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
